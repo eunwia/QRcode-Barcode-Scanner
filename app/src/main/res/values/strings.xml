@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Session1B</string>
+    <string name="error_enter_port">enter port number</string>
+    <string name="error_incorrect_port">incorrect port number</string>
+    <string name="error_enter_ip">enter ip address</string>
+    <string name="error_setup_before_proceeding">Set up your port number and ip address before scanning.</string>
+</resources>
