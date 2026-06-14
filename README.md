@@ -1,7 +1,6 @@
-<div align="center">
+<div>
 
-# QR Code / Barcode Scanner
-### with Web Server Integration
+# QR Code / Barcode Scanner with Web Server Integration
 
 ![Scanner](https://img.shields.io/badge/QR%20%2F%20Barcode-Scanner-1a8a8a?style=for-the-badge)
 ![Web Server](https://img.shields.io/badge/Web-Server%20Integration-2aabab?style=for-the-badge)
@@ -15,7 +14,7 @@
 
 ## 📱 Mobile Interfaces
 
-<div align="center">
+<div>
 <table border="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none; padding: 8px;">
@@ -68,11 +67,11 @@
 
 ## 🖥️ Server Side
 
-<div align="center">
+<div>
 <table border="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none; padding: 8px;">
-      <img src="readme/qr-web.png" alt="Web Server" width="600" style="border-radius: 10px;" />
+      <img src="readme/qr-web.PNG" alt="Web Server" width="600" style="border-radius: 10px;" />
       <br/>
       <sub>🌐 Web Cursor — API Side</sub>
     </td>
@@ -89,7 +88,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 ![Java](https://img.shields.io/badge/Java-1a8a8a?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/HTML5-2aabab?style=for-the-badge&logo=html5&logoColor=ffffff)
